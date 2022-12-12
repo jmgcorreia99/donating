@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/jmgcorreia99/donating#readme",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "nodemon": "^2.0.2",
     "nunjucks": "^3.2.0"
   }
